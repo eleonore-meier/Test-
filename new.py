@@ -1,0 +1,6 @@
+print('Enter your name:')
+x = input()
+print('Hello, ' + x)
+print("how many cows do you have? ")
+y = input()
+print("i would love to have" + y + "cows!")
